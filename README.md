@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adamwitherspoon-cars
-- 👀 SRE @ creditiq.com
+- 👀 Senior Security Operations Enginer @ CarsCommerce.inc
 - 📫 Reach me on Slack or awitherspoon@creditiq.com
